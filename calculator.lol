@@ -29,7 +29,7 @@ BOTH SAEM OPERATION AN "+"   BTW CHECK IF THE USER ENTERED A +
         VISIBLE "NOT RIGHT!!!!"   BTW IF THEY DID NOT ENTER ONE OF THE 4 OPERATIONS THEN PRINT NOT RIGHT
   OIC
 
-OBTW dsughvoadiufkghoilerukdsn
+OBTW dsugasgasdgasdasdgeafkghoilerukdsn
 asidughvuaodshjn
 TLDR
 
